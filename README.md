@@ -9,6 +9,9 @@
 2. Справа выше будет кнопка скачать
 
 Прикладываю скриншоты
+<img width="1962" height="1476" alt="image" src="https://github.com/user-attachments/assets/52bf30c2-7d23-49da-879d-47e46bec72ad" />
+
+
 <img width="2428" height="1430" alt="image" src="https://github.com/user-attachments/assets/9e5f74ab-21cd-442d-ad5c-ea1f3338e095" />
 
 
